@@ -27,9 +27,8 @@ I'm building this for my courses of Data Structres and Algorithms and Programmin
 
 2. Install the required Python packages/dependencies:
     ```bash
-    pip install pillow pytesseract
+    pip install -r requirements.txt
     ```
-    '''pip install -r requirements.txt'''
 
 3. Install Tesseract-OCR:
     - **Windows**: Download the installer from [here](https://github.com/UB-Mannheim/tesseract/wiki).
