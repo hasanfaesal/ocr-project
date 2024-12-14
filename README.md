@@ -67,7 +67,7 @@ text = pytesseract.image_to_string(image)
 print(text)
 ```
 
-##GUI Based OCR System (PyQt5 library)
+## GUI Based OCR System (PyQt5 library)
 
 ```python
 import sys
